@@ -36,10 +36,10 @@ Jika semua monster akan selalu ada di sekeliling Senshi, maka hanya terdapat tig
 Artinya, pertama-tama kita harus menentukan posisi si Senshi di ruangan. Ini bisa kita pake jabarin semua-semuanya, atau bisa kita pake interval aja. Interval gimana? Bisa gini:
 
 1. **Tengah:** $0 < x < X-1$ dan $0 < y < Y-1$  
-   Apa maksudnya? Di sini di tengah itu pokoknya ngga di 0, **_dan_** ngga di X-1 dan Y-1. Ini karena X-1 itu koordinat tembok kanan, Y-1 itu koordinat tembok atas.
+   Apa maksudnya? Di sini di tengah itu pokoknya ngga di 0, **_dan_** ngga di X-1 dan Y-1. Ini karena X-1 itu koordinat tembok kanan, Y-1 itu koordinat tembok atas.  
 2. **Tembok:** $0 < x < X-1$ atau $0 < y < Y-1$  
-   Nah, yang ini itu karena ngga _dan_ lagi, tapi **_atau_**.
-   adi salah satunya, x atau y, itu _pasti_ ada di 0 atau di X-1 atau di Y-1.
+   Nah, yang ini itu karena ngga _dan_ lagi, tapi **_atau_**.  
+   Jadi salah satunya, x atau y, itu _pasti_ ada di 0 atau di X-1 atau di Y-1.
 3. **Pojok:** Selain yang di atas. (_else_)  
    Udah deh, kan udah di-handle yang tembok dan tengah, berarti sisanya kondisi di pojokan.
 
