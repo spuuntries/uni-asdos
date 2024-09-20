@@ -81,7 +81,7 @@ Untuk melakukan ini, ada dua cara pemikiran, **nguli** dan **ngga nguli.** 😁
 
 ### 🫠 **Hari-hari nguli**
 
-Pertama-tama, karena teman-teman "belom" ||~~belom terlalu paham~~|| belajar list dan loop ||~~walaupun saya lihat kemarin udah nyoba pada pakek loop ama list, ama dict, ama set, dsb., bjirlah~~||, kujelasin pemikiran pertama dulu, si nguli.
+Pertama-tama, karena teman-teman "belom" ~~belom terlalu paham~~ belajar list dan loop ~~walaupun saya lihat kemarin udah nyoba pada pakek loop ama list, ama dict, ama set, dsb., bjirlah~~, kujelasin pemikiran pertama dulu, si nguli.
 
 Nguli ini sebenernya juga simpel sih, dan agak kayak ada "seni"-nya gitu (💀). Tapi oke, kita mundur dikit dulu dan kembali ke breakdown. Pertama kita ambil dulu kan jumlah monster, terus kita terima tiap-tiap posisinya monster, kita taruh di variabel-variabel.
 
