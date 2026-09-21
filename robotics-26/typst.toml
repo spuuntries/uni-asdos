@@ -1,0 +1,24 @@
+[package]
+name = "robotics-presentation"
+version = "0.1.0"
+entrypoint = "src/lib.typ"
+authors = ["Robotics TA Team"]
+license = "MIT"
+description = "A cute and modern Typst presentation template for robotics practicums and lab sessions, themed after LEGO Mindstorms Robot Inventor & Pybricks."
+repository = "https://github.com/spuuntries/uni-asdos"
+keywords = [
+    "presentation",
+    "touying",
+    "slides",
+    "robotics",
+    "pybricks",
+    "inventor",
+    "practicum",
+    "lab",
+]
+compiler = "0.13.0"
+
+[template]
+path = "template"
+entrypoint = "slides.typ"
+thumbnail = "thumbnail.png"
