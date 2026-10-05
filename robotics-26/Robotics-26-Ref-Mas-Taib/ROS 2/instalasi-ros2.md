@@ -28,7 +28,9 @@ Alasannya sederhana. Kalau ROS terpasang langsung di sistem kalian, file ada di 
 
 ## Bagian 1: Ubuntu 24.04
 
-Siapkan sekitar 2,5 GB ruang disk kosong. Unduhan paket ROS sendiri sekitar 73 MB, sisanya dependensi Ubuntu.
+Siapkan ruang disk kosong:
+- Pada instalasi Ubuntu Desktop standar: sekitar 2,5 GB.
+- Pada WSL2: siapkan minimal **6 GB** ruang kosong (unduhan sekitar 820 MB dan terpasang sekitar 5,3 GB, karena seluruh dependensi grafis ditarik dari awal).
 
 ### 1.1 Pastikan locale UTF-8
 
